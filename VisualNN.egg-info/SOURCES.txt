@@ -1,0 +1,6 @@
+setup.py
+VisualNN.egg-info/PKG-INFO
+VisualNN.egg-info/SOURCES.txt
+VisualNN.egg-info/dependency_links.txt
+VisualNN.egg-info/requires.txt
+VisualNN.egg-info/top_level.txt
